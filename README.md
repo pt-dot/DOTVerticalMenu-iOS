@@ -6,7 +6,6 @@ Vertical menu with rainbow color
 # Screenshot
 
 Author: Agus Cahyono (@balitax)
-iOS Developers
 
 The MIT License (MIT)
 Copyright (c) 2016 PT. DOT Indonesia
